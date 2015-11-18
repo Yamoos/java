@@ -1,8 +1,8 @@
-a $ echo ""
-a $ echo ""
-a $ echo ""
-a $ echo ""
-a $ echo ""
+a $ echo "";
+a $ echo "";
+a $ echo "";
+a $ echo "";
+a $ echo "";
 
-print hello ewrebodea
-print hello are you
+print hello ewrebodea;
+print hello are you;
